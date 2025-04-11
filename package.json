@@ -1,5 +1,5 @@
 {
-  "name": "odoo-cli",
+  "name": "@qalisa/odoo-cli",
   "version": "1.0.0",
   "description": "Allows interacting with a server's Odoo RPC API",
   "main": "dist/index.js",
